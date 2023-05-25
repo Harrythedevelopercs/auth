@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "19860377354",
+    "project_id": "my-shop-project-329311",
+    "storage_bucket": "my-shop-project-329311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19860377354:android:b8d3b87eb29f6bed1a34f3",
+        "android_client_info": {
+          "package_name": "com.example.authlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19860377354-388m464ljcnruhvfogud2tbt23bns196.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJC96-uikgiUcwEhmZtyGurtZaZT3hobI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19860377354-388m464ljcnruhvfogud2tbt23bns196.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19860377354-j5hvkj2jj5p17lo9lprdvt326cdrq43l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authlogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

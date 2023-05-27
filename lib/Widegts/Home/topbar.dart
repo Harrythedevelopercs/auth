@@ -25,8 +25,14 @@ class TopBar extends StatelessWidget {
             ),
           ),
         ),
-        const Image(image: AssetImage('assets/images/Heart.png')),
-        const Image(image: AssetImage('assets/images/Notification.png')),
+        Container(
+          width: MediaQuery.of(context).size.width * 0.1,
+          child: const Image(image: AssetImage('assets/images/Heart.png')),
+        ),
+        Container(
+          width: MediaQuery.of(context).size.width * 0.1,
+          child: const Image(image: AssetImage('assets/images/Notification.png')),
+        ),
       ],
     );
   }
